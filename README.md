@@ -7,7 +7,7 @@ Full-Stack Developer
 I recently graduated from the University of Toronto's Full Stack Development program and am eager to continue learning, collaborating, and developing new applications.
 
 * 🌍  I'm based in Toronto, Canada
-* 🧠  I'm learning Next.js and Vite
+* 🧠  I'm learning Next.js, Typescript and Vite
 * ⚡  Fun fact also love to travel
 
 ### Skills
