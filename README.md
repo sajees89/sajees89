@@ -7,7 +7,7 @@ Full-Stack Developer
 I recently graduated from the University of Toronto's Full Stack Development program and am eager to continue learning, collaborating, and developing new applications.
 
 * 🌍  I'm based in Toronto, Canada
-* 🧠  I'm learning Next.js, Typescript, Tailwind and Vite
+* 🧠  I'm learning Next.js, Typescript and Vite
 * ⚡  Fun fact also love to travel
 
 ### Skills
@@ -34,4 +34,4 @@ I recently graduated from the University of Toronto's Full Stack Development pro
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sajees89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sajeesjeya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/sajeeus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sajees89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/codingwithsj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sajeesjeya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CodingwithSJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
